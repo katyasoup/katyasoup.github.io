@@ -34,7 +34,8 @@ a:active: {
 }
 
 #photo {
-	height: 50px;
-	width: 50px;
+	height: 300px;
+	width: 300px;
 	float: right;
+	border: 15px;
 }
