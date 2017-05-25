@@ -39,4 +39,6 @@ a:active: {
 	float: right;
 	padding: 20px;
 	border: 15px;
+	border-style: solid;
+	border-color: #406569;
 }
