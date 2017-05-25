@@ -37,8 +37,8 @@ a:active: {
 	height: 200px;
 	width: 200px;
 	float: right;
-	padding: 20px;
-	border: 15px;
+	padding: 2px;
+	border: 6px;
 	border-style: solid;
 	border-color: #406569;
 }
