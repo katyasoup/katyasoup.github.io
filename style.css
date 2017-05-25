@@ -1,14 +1,30 @@
 body  {
-  color: #4a4a4a;
-  font-family: helvetica;
-  background: #f5f5f5;
+	color: #4a4a4a;
+	font-family: helvetica;
+  	background: #f5f5f5;
 }
 
 div {
-  justify-content: center;
+  	justify-content: center;
 }
 
 #container {
 	width: 800px;
 	margin: 40px auto 60px;
+}
+
+a:link {
+	color: #72a1a6
+}
+
+a:visited {
+	color: #527477
+}
+
+a: hover {
+	color: #527477
+}
+
+a:active: {
+	color: #000
 }
