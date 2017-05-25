@@ -18,13 +18,13 @@ a:link {
 }
 
 a:visited {
-	color: #527477
+	color: #4a4a4a
 }
 
-a: hover {
-	color: #527477
+a:hover {
+	color: #4a4a4a
 }
 
 a:active: {
-	color: #000
+	color: #4a4a4a
 }
