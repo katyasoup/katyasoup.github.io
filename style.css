@@ -34,10 +34,11 @@ a:active: {
 }
 
 #photo {
-	height: 200px;
-	width: 200px;
+	height: 185px;
+	width: 185px;
 	float: right;
-	padding: 2px;
+	margin: 5px;
+	padding: 3px;
 	border: 6px;
 	border-style: solid;
 	border-color: #406569;
