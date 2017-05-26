@@ -48,7 +48,7 @@ a:active: {
 	border-radius: 50%;
 }
 
-#social {
+.social {
 	height: 25px;
 	width: 25px;
 	display: inline;
