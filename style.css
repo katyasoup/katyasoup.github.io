@@ -43,3 +43,7 @@ a:active: {
 	border-style: solid;
 	border-color: #406569;
 }
+
+.img-circle {
+	border-radius: 50%;
+}
