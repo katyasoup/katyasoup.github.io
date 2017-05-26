@@ -47,3 +47,8 @@ a:active: {
 .img-circle {
 	border-radius: 50%;
 }
+
+#social {
+	height: 25%;
+	width: 25%;
+}
